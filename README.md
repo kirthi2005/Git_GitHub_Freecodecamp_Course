@@ -8,9 +8,9 @@ GitHub is a place to share software repositories and collaborate with other deve
 These tools make it easier for multiple people to work on the same software project.
 
 #In this course you will learn about:
-  common terms
-  installing Git
-  creating a Git repository
+  * common terms
+  - installing Git
+  + creating a Git repository
   cloning a Git repository
   adding and removing from a Git repository
   using GitHub
