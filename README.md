@@ -11,11 +11,11 @@ These tools make it easier for multiple people to work on the same software proj
   * common terms
   - installing Git
   + creating a Git repository
-  cloning a Git repository
-  adding and removing from a Git repository
-  using GitHub
-  creating pull requests
-  branching repositories
-  merging repositories
-  and more
+  * cloning a Git repository
+  - adding and removing from a Git repository
+  + using GitHub
+  * creating pull requests
+  - branching repositories
+  + merging repositories
+  * and more
 
